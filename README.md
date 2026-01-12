@@ -1,7 +1,5 @@
 # Python-summation
 
-# Python-summation
-
 파이썬 학습 및 정리 문서 저장소입니다.
 
 ## 📚 목차
